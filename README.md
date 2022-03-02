@@ -1,0 +1,1 @@
+This directory contains project tasks dealing with bash and writing executable bash programs.
